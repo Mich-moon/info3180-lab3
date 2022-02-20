@@ -1,6 +1,15 @@
 body {
   padding-top: 5rem;
 }
+.flashes {
+  list-style: none;
+  padding: 12px;
+  border-radius: 5px;
+  width: 20%;
+}
+.success {
+  background-color: rgb(124, 219, 156);
+}
 form {
   display: flex;
   flex-direction: column;
